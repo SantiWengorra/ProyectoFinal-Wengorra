@@ -1,0 +1,8 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    list-style: none;
+    margin-right: 3rem;
+    gap: 10px;
+}
